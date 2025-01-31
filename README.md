@@ -1,6 +1,6 @@
 # Football-Game-MIT-App-Inventor
 # Football Shootout Challenge
-# This game was my first project in MIT App Inventor a while ago.
+# This game was my first project in MIT App Inventor a while ago (The game was made at a young age).
 Welcome to the **Football Shootout Challenge**! This is an exciting and interactive football game built using MIT App Inventor. In this game, you will challenge a goalkeeper to score goals with your shooting skills. Time your shots, avoid the goalkeeper's blocks, and see how many goals you can score!
 
 ## Features
